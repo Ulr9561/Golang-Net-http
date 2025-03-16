@@ -9,7 +9,7 @@
 *.dylib
 
 
-.idea
+.idea/
 # Test binary, built with `go test -c`
 *.test
 
